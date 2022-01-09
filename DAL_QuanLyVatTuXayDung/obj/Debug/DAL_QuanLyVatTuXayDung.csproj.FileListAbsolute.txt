@@ -1,0 +1,10 @@
+D:\Dev\C#\BaiTap\QuanLyVatTuXayDung\DAL_QuanLyVatTuXayDung\bin\Debug\DAL_QuanLyVatTuXayDung.dll
+D:\Dev\C#\BaiTap\QuanLyVatTuXayDung\DAL_QuanLyVatTuXayDung\bin\Debug\DAL_QuanLyVatTuXayDung.pdb
+D:\Dev\C#\BaiTap\QuanLyVatTuXayDung\DAL_QuanLyVatTuXayDung\obj\Debug\DAL_QuanLyVatTuXayDung.csprojResolveAssemblyReference.cache
+D:\Dev\C#\BaiTap\QuanLyVatTuXayDung\DAL_QuanLyVatTuXayDung\obj\Debug\DAL_QuanLyVatTuXayDung.dll
+D:\Dev\C#\BaiTap\QuanLyVatTuXayDung\DAL_QuanLyVatTuXayDung\obj\Debug\DAL_QuanLyVatTuXayDung.pdb
+E:\Dev\C#\BaiTap\QuanLyVatTuXayDung\DAL_QuanLyVatTuXayDung\bin\Debug\DAL_QuanLyVatTuXayDung.dll
+E:\Dev\C#\BaiTap\QuanLyVatTuXayDung\DAL_QuanLyVatTuXayDung\bin\Debug\DAL_QuanLyVatTuXayDung.pdb
+E:\Dev\C#\BaiTap\QuanLyVatTuXayDung\DAL_QuanLyVatTuXayDung\obj\Debug\DAL_QuanLyVatTuXayDung.csprojResolveAssemblyReference.cache
+E:\Dev\C#\BaiTap\QuanLyVatTuXayDung\DAL_QuanLyVatTuXayDung\obj\Debug\DAL_QuanLyVatTuXayDung.dll
+E:\Dev\C#\BaiTap\QuanLyVatTuXayDung\DAL_QuanLyVatTuXayDung\obj\Debug\DAL_QuanLyVatTuXayDung.pdb

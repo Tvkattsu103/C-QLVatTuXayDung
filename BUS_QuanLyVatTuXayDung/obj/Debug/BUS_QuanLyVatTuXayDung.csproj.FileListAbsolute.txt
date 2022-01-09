@@ -1,0 +1,14 @@
+D:\Dev\C#\BaiTap\QuanLyVatTuXayDung\BUS_QuanLyVatTuXayDung\bin\Debug\BUS_QuanLyVatTuXayDung.dll
+D:\Dev\C#\BaiTap\QuanLyVatTuXayDung\BUS_QuanLyVatTuXayDung\bin\Debug\BUS_QuanLyVatTuXayDung.pdb
+D:\Dev\C#\BaiTap\QuanLyVatTuXayDung\BUS_QuanLyVatTuXayDung\bin\Debug\DAL_QuanLyVatTuXayDung.dll
+D:\Dev\C#\BaiTap\QuanLyVatTuXayDung\BUS_QuanLyVatTuXayDung\bin\Debug\DAL_QuanLyVatTuXayDung.pdb
+D:\Dev\C#\BaiTap\QuanLyVatTuXayDung\BUS_QuanLyVatTuXayDung\obj\Debug\BUS_QuanLyVatTuXayDung.csprojResolveAssemblyReference.cache
+D:\Dev\C#\BaiTap\QuanLyVatTuXayDung\BUS_QuanLyVatTuXayDung\obj\Debug\BUS_QuanLyVatTuXayDung.dll
+D:\Dev\C#\BaiTap\QuanLyVatTuXayDung\BUS_QuanLyVatTuXayDung\obj\Debug\BUS_QuanLyVatTuXayDung.pdb
+E:\Dev\C#\BaiTap\QuanLyVatTuXayDung\BUS_QuanLyVatTuXayDung\bin\Debug\BUS_QuanLyVatTuXayDung.dll
+E:\Dev\C#\BaiTap\QuanLyVatTuXayDung\BUS_QuanLyVatTuXayDung\bin\Debug\BUS_QuanLyVatTuXayDung.pdb
+E:\Dev\C#\BaiTap\QuanLyVatTuXayDung\BUS_QuanLyVatTuXayDung\bin\Debug\DAL_QuanLyVatTuXayDung.dll
+E:\Dev\C#\BaiTap\QuanLyVatTuXayDung\BUS_QuanLyVatTuXayDung\bin\Debug\DAL_QuanLyVatTuXayDung.pdb
+E:\Dev\C#\BaiTap\QuanLyVatTuXayDung\BUS_QuanLyVatTuXayDung\obj\Debug\BUS_QuanLyVatTuXayDung.csprojResolveAssemblyReference.cache
+E:\Dev\C#\BaiTap\QuanLyVatTuXayDung\BUS_QuanLyVatTuXayDung\obj\Debug\BUS_QuanLyVatTuXayDung.dll
+E:\Dev\C#\BaiTap\QuanLyVatTuXayDung\BUS_QuanLyVatTuXayDung\obj\Debug\BUS_QuanLyVatTuXayDung.pdb
